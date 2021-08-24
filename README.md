@@ -19,7 +19,7 @@ Not a member yet? Do the following.
 2. Ask to be part of viking role so you can see private channels that has all the details you need
 
 ## Dependencies
-WIP
+- BepInEx 5.4.11.0
 
 ## Known issues
 WIP
