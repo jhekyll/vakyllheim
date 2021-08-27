@@ -1,0 +1,201 @@
+groups:
+  All:
+    - RRRM_ForestSpider
+    - RRRM_BlackSpider
+    - RRRM_TanSpider
+    - RRRM_TreeSpider
+    - RRRM_GreenSpider
+    - RRRM_FrostSpider
+    - RRRM_FrigidSpider
+    - RRRM_GhostWarrior
+    - RRRM_SkeletonWarrior
+    - RRRM_SkeletonWarriorFire
+    - RRRM_SkeletonWarriorIce
+    - Rainbow_Butterfly
+    - Silkworm_Butterfly
+    - Greydwarf_Purple_Shroom
+    - GoblinBase
+    - GoblinLoot
+    - GoblinShamanNew
+    - RRRM_IceGolem
+    - ObsidianGolem
+    - FireGolem
+    - Kraken
+
+  Spiders:
+    - RRRM_ForestSpider
+    - RRRM_BlackSpider
+    - RRRM_TanSpider
+    - RRRM_TreeSpider
+    - RRRM_GreenSpider
+    - RRRM_FrostSpider
+    - RRRM_FrigidSpider
+
+  Skeletons:
+    - RRRM_GhostWarrior
+    - RRRM_SkeletonWarrior
+    - RRRM_SkeletonWarriorFire
+    - RRRM_SkeletonWarriorIce
+
+  Anmals:
+    - Rainbow_Butterfly
+    - Silkworm_Butterfly
+
+  Greydwarfs:
+    - Greydwarf_Purple_Shroom
+
+  Fulings:
+    - GoblinBase
+    - GoblinLoot
+    - GoblinShamanNew
+
+  Golems:
+    - RRRM_IceGolem
+    - ObsidianGolem
+    - FireGolem
+
+  Bosses:
+    - Kraken
+
+All:
+  stars:
+    0: [44, 4, 1, 1, 0]
+    1: [45, 8, 5, 2, 1]
+    2: [40, 14, 8, 5, 3]
+    3: [35, 19, 11, 7, 5]
+    4: [30, 23, 13, 9, 7]
+    5: [25, 26, 15, 12, 8]
+  effect:
+    Aggressive: [10, 11, 12, 13, 14, 15, 16]
+    Curious: [10, 11, 12, 13, 14, 15, 16]
+    Quick: [10, 11, 12, 13, 14, 15, 16]
+    Regenerating: [10, 11, 12, 13, 14, 15, 16]
+    Splitting: [10, 11, 12, 13, 14, 15, 16]
+    Armored: [10, 11, 12, 13, 14, 15, 16]
+  infusion:
+    Fire: [10, 11, 12, 13, 14, 15, 16]
+    Frost: [10, 11, 12, 13, 14, 15, 16]
+    Poison: [10, 11, 12, 13, 14, 15, 16]
+    Lightning: [10, 11, 12, 13, 14, 15, 16]
+    Spirit: [10, 11, 12, 13, 14, 15, 16]
+    Chaos: [10, 11, 12, 13, 14, 15, 16]
+  damage: 
+    0: 1
+    1: 1.1
+    2: 1.2
+    3: 1.3
+    4: 1.4
+    5: 1.5
+  damage taken: 
+    0: 1
+    1: 0.95
+    2: 0.9
+    3: 0.85
+    4: 0.8
+    5: 0.75
+  attack speed: 
+    0: 1
+    1: 1.05
+    2: 1.1
+    3: 1.15
+    4: 1.2
+    5: 1.25
+  movement speed: 
+    0: 1
+    1: 1.05
+    2: 1.1
+    3: 1.15
+    4: 1.2
+    5: 1.25
+
+Spiders:
+  infusion:
+    Fire: [10, 10, 10, 10, 10, 10, 10]
+    Frost: [10, 10, 10, 10, 10, 10, 10]
+    Poison: [15, 20, 25, 30, 35, 40, 50]
+    Lightning: [10, 10, 10, 10, 10, 10, 10]
+    Spirit: [10, 10, 10, 10, 10, 10, 10]
+    Chaos: [10, 10, 10, 10, 10, 10, 10]
+
+RRRM_GhostWarrior:
+  effect:
+    Splitting: [0, 0, 0, 0, 0, 0, 0]
+
+RRRM_FrostSpider:
+  infusion:
+    Fire: [0, 0, 0, 0, 0, 0, 0]
+    Frost: [15, 20, 20, 20, 25, 25, 25]
+    Poison: [15, 20, 20, 20, 25, 25, 25]
+    Lightning: [10, 10, 10, 10, 10, 10, 10]
+    Spirit: [10, 10, 10, 10, 10, 10, 10]
+    Chaos: [10, 10, 10, 10, 10, 10, 10]
+
+RRRM_FrigidSpider:
+  infusion:
+    Fire: [0, 0, 0, 0, 0, 0, 0]
+    Frost: [15, 20, 20, 20, 25, 25, 25]
+    Poison: [15, 20, 20, 20, 25, 25, 25]
+    Lightning: [10, 10, 10, 10, 10, 10, 10]
+    Spirit: [10, 10, 10, 10, 10, 10, 10]
+    Chaos: [10, 10, 10, 10, 10, 10, 10]
+
+RRRM_SkeletonWarriorFire:
+  infusion:
+    Fire: [15, 20, 25, 30, 35, 40, 50]
+    Frost: [0, 0, 0, 0, 0, 0, 0]
+    Poison: [10, 10, 10, 10, 10, 10, 10]
+    Lightning: [10, 10, 10, 10, 10, 10, 10]
+    Spirit: [10, 10, 10, 10, 10, 10, 10]
+    Chaos: [10, 10, 10, 10, 10, 10, 10]
+
+RRRM_SkeletonWarriorIce:
+  infusion:
+    Fire: [0, 0, 0, 0, 0, 0, 0]
+    Frost: [15, 20, 25, 30, 35, 40, 50]
+    Poison: [10, 10, 10, 10, 10, 10, 10]
+    Lightning: [10, 10, 10, 10, 10, 10, 10]
+    Spirit: [10, 10, 10, 10, 10, 10, 10]
+    Chaos: [10, 10, 10, 10, 10, 10, 10]
+
+Golems:
+  effect:
+    Aggressive: [10, 10, 10, 10, 10, 10, 10]
+    Curious: [10, 10, 10, 10, 10, 10, 10]
+    Quick: [10, 10, 10, 10, 10, 10, 10]
+    Regenerating: [10, 10, 10, 10, 10, 10, 10]
+    Splitting: [5, 5, 5, 5, 5, 5, 5]
+    Armored: [15, 20, 25, 30, 35, 40, 50]
+
+RRRM_IceGolem:
+  effect:
+    Aggressive: [10, 10, 10, 10, 10, 10, 10]
+    Curious: [10, 10, 10, 10, 10, 10, 10]
+    Quick: [10, 10, 10, 10, 10, 10, 10]
+    Regenerating: [10, 10, 10, 10, 10, 10, 10]
+    Splitting: [0, 0, 0, 0, 0, 0, 0]
+    Armored: [15, 20, 25, 30, 35, 40, 50]
+  infusion:
+    Fire: [0, 0, 0, 0, 0, 0, 0]
+    Frost: [15, 20, 25, 30, 35, 40, 50]
+    Poison: [10, 10, 10, 10, 10, 10, 10]
+    Lightning: [10, 10, 10, 10, 10, 10, 10]
+    Spirit: [10, 10, 10, 10, 10, 10, 10]
+    Chaos: [10, 10, 10, 10, 10, 10, 10]
+
+ObsidianGolem:
+  infusion:
+    Fire: [0, 0, 0, 0, 0, 0, 0]
+    Frost: [15, 20, 25, 30, 35, 40, 50]
+    Poison: [10, 10, 10, 10, 10, 10, 10]
+    Lightning: [10, 10, 10, 10, 10, 10, 10]
+    Spirit: [10, 10, 10, 10, 10, 10, 10]
+    Chaos: [10, 10, 10, 10, 10, 10, 10]
+
+FireGolem:
+  infusion:
+    Fire: [15, 20, 25, 30, 35, 40, 50]
+    Frost: [0, 0, 0, 0, 0, 0, 0]
+    Poison: [10, 10, 10, 10, 10, 10, 10]
+    Lightning: [10, 10, 10, 10, 10, 10, 10]
+    Spirit: [10, 10, 10, 10, 10, 10, 10]
+    Chaos: [10, 10, 10, 10, 10, 10, 10]
