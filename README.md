@@ -1,9 +1,14 @@
-# Vakyllheim v1.0.0 - Season 1!
-Valheim mod setup to join vakyllheim server.
+# Vakyllheim v2.0.0 - Season 2!
+This is mod setup for CLIENTS to join vakyllheim server.
 
+Vakyllheim is all about quality content and balance!
+Not a member yet? Get whitelisted! Join our discord https://discord.gg/w7jbkvxf
 
 ## Requirement
 - Valheim version 0.156.2
+
+## Dependencies
+- BepInEx 5.4.1500
 
 ## Setup
 1. Make sure Valheim is not running.
@@ -13,13 +18,20 @@ Valheim mod setup to join vakyllheim server.
 5. Copy the contents into `<Steam Location>\steamapps\common\Valheim\`
 6. You can now open the game
 
-## Server
-Not a member yet? Do the following.
-1. Join our discord https://discord.gg/w7jbkvxf
-2. Ask to be part of viking role so you can see private channels that has all the details you need
+## Keybinds
+You are responsible to your keybindings found in config files, not me.
 
-## Dependencies
-- BepInEx 5.4.11.0
+- Class skills: look for ValheimLegends.cfg. find "[Keybinds]" section w/o quotations.
+- Emote wheel: look for virtuacode.valheim.emotewheel.cfg. find "[General]" section w/o quiotations.
+- EquipWheel: look for virtuacode.valheim.equipwheel.cfg. find "[General]" section w/o quiotations.
+
+## Graphics
+Valheim FPS plus will lower your graphics to get more FPS when you open the game. But if you want to change it, I made some config files that you can use to replace the default config under BepInEx/config/
+
+KillerGoldFisch.ValheimFPSPlus.cfg <-- config in use that you want to replace
+KillerGoldFisch.ValheimFPSPlus.cfgDEFAULTGRAPHICS
+KillerGoldFisch.ValheimFPSPlus.cfgLOWGRAPHICS
+KillerGoldFisch.ValheimFPSPlus.cfgSUPERLOWGRAPHICS
 
 ## Known issues
 WIP
