@@ -1,0 +1,452 @@
+[Message:   BepInEx] BepInEx 5.4.16.0 - valheim (06/10/2021 12:59:36 PM)
+[Info   :   BepInEx] Running under Unity v2019.4.24.6137584
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.16.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 14 plugins to load
+[Info   :   BepInEx] Loading [PlantEverything 1.8.4]
+[Info   : PlantEverything] Initialized Server Authoritative Config Manager.
+[Info   :   BepInEx] Loading [Custom Raids 1.4.0]
+[Info   :Custom Raids] Loading configurations...
+[Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.6]
+[Info   :   BepInEx] Loading [Epic Loot 0.8.7]
+[Info   : Unity Log] 10/17/2021 17:29:33: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 10/17/2021 17:29:33: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 10/17/2021 17:29:33: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 10/17/2021 17:29:33: Loaded localization CSV:localization_extra language:English
+
+[Info   :   BepInEx] Loading [Creature Level & Loot Control 4.4.3]
+[Info   : Unity Log] 10/17/2021 17:29:35: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 10/17/2021 17:29:35: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 10/17/2021 17:29:35: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 10/17/2021 17:29:35: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 10/17/2021 17:29:35: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 10/17/2021 17:29:35: Loaded localization CSV:localization_extra language:English
+
+[Info   :   BepInEx] Loading [Drop That! 2.1.0]
+[Message:Drop That!] Loading general configuration from E:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\drop_that.cfg.
+[Info   :   BepInEx] Loading [kgladder 0.2.0]
+[Info   :   BepInEx] Loading [ValheimPermissions 1.1.2]
+[Info   :   Console] Valheim - Permissions: Haz awoke!!?!
+[Info   :   Console] Valheim - Permissions: Development Version Activated!!!
+[Info   :   Console] Valheim - Permissions: Warning: This may break your game (90% stable)
+[Info   :   Console] Valheim - Permissions: ***Do Not Release To Public***
+[Info   :   Console] Valheim - Permissions: [Client Mode]
+[Info   :   BepInEx] Loading [WorldofValheimServerSideCharacters 0.7.2]
+[Info   :   Console] WoV - SSC: [Client Mode]
+[Info   :   Console] WoV - SSC: Haz awoke!!?!
+[Info   :   BepInEx] Loading [AntiCheat 0.1.0]
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat]: Computed hash: de391da5aaca15620b60142f9e6ef4e9
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] newobj -> Void .ctor()
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] stloc.0 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldloc.0 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldarg.0 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] call -> Int64 GetUID()
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] callvirt -> Void Write(Int64)
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldloc.0 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] call -> System.String GetVersionString()
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] callvirt -> Void Write(System.String)
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldloc.0 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldarg.0 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldfld -> UnityEngine.Vector3 m_referencePosition
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] callvirt -> Void Write(UnityEngine.Vector3)
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldloc.0 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] call -> Game get_instance()
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] callvirt -> PlayerProfile GetPlayerProfile()
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] callvirt -> System.String GetName()
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] callvirt -> Void Write(System.String)
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldarg.0 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] call -> Boolean IsServer()
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] brfalse -> System.Reflection.Emit.Label
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldloc.0 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldsfld -> World m_world
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldfld -> System.String m_name
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] callvirt -> Void Write(System.String)
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldloc.0 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldsfld -> World m_world
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldfld -> System.Int32 m_seed
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] callvirt -> Void Write(Int32)
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldloc.0 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldsfld -> World m_world
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldfld -> System.String m_seedName
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] callvirt -> Void Write(System.String)
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldloc.0 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldsfld -> World m_world
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldfld -> System.Int64 m_uid
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] callvirt -> Void Write(Int64)
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldloc.0 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldsfld -> World m_world
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldfld -> System.Int32 m_worldGenVersion
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] callvirt -> Void Write(Int32)
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldloc.0 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldarg.0 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldfld -> System.Double m_netTime
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] callvirt -> Void Write(Double)
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] br -> System.Reflection.Emit.Label
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldarg.2 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] call -> Boolean IsNullOrEmpty(System.String)
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] brtrue -> System.Reflection.Emit.Label
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldarg.2 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] call -> System.String HashPassword(System.String)
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] br -> System.Reflection.Emit.Label
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldstr -> 
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] stloc.1 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldloc.0 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldloc.1 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] callvirt -> Void Write(System.String)
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] call -> ZSteamMatchmaking get_instance()
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] callvirt -> Byte[] RequestSessionTicket()
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] stloc.2 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldloc.2 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] brtrue -> System.Reflection.Emit.Label
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldc.i4.5 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] stsfld -> ZNet+ConnectionStatus m_connectionStatus
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ret -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldloc.0 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldloc.2 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] callvirt -> Void Write(Byte[])
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldloc -> 0
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldstr -> de391da5aaca15620b60142f9e6ef4e9
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] callvirt -> Void Write(System.String)
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldarg.1 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldstr -> PeerInfo
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldc.i4.1 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] newarr -> System.Object
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] dup -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldc.i4.0 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ldloc.0 -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] stelem.ref -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] callvirt -> Void Invoke(System.String, System.Object[])
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] ret -> <none>
+
+[Info   : Unity Log] 10/17/2021 17:29:36: [AntiCheat] Patched client!
+
+[Info   : AntiCheat] [AntiCheat] v0.1.0 loaded.
+[Info   :   BepInEx] Loading [Valheim Plus 0.9.9]
+[Info   :Valheim Plus] Trying to load the configuration file
+[Info   : Unity Log] Loading config section AdvancedBuildingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section AdvancedEditingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Bed
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Beehive
+[Info   : Unity Log]  Loading key honeyProductionSpeed
+[Info   : Unity Log]  Loading key maximumHoneyPerBeehive
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoDepositRange
+[Info   : Unity Log]  Loading key showDuration
+[Info   : Unity Log] Loading config section Building
+[Info   : Unity Log]  Loading key noInvalidPlacementRestriction
+[Info   : Unity Log]  Loading key noMysticalForcesPreventPlacementRestriction
+[Info   : Unity Log]  Loading key noWeatherDamage
+[Info   : Unity Log]  Loading key maximumPlacementDistance
+[Info   : Unity Log]  Loading key pieceComfortRadius
+[Info   : Unity Log]  Loading key alwaysDropResources
+[Info   : Unity Log]  Loading key alwaysDropExcludedResources
+[Info   : Unity Log]  Loading key enableAreaRepair
+[Info   : Unity Log]  Loading key areaRepairRadius
+[Info   : Unity Log] Loading config section Deconstruct
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Inventory
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Items
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Fermenter
+[Info   : Unity Log]  Loading key fermenterDuration
+[Info   : Unity Log]  Loading key fermenterItemsProduced
+[Info   : Unity Log]  Loading key showDuration
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section FireSource
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Food
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Smelter
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Furnace
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hotkeys
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Kiln
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Windmill
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section SpinningWheel
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Map
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Player
+[Info   : Unity Log]  Loading key baseMaximumWeight
+[Info   : Unity Log]  Loading key baseMegingjordBuff
+[Info   : Unity Log]  Loading key baseAutoPickUpRange
+[Info   : Unity Log]  Loading key disableCameraShake
+[Info   : Unity Log]  Loading key baseUnarmedDamage
+[Info   : Unity Log]  Loading key cropNotifier
+[Info   : Unity Log]  Loading key restSecondsPerComfortLevel
+[Info   : Unity Log]  Loading key deathPenaltyMultiplier
+[Info   : Unity Log]  Loading key autoRepair
+[Info   : Unity Log]  Loading key guardianBuffDuration
+[Info   : Unity Log]  Loading key guardianBuffCooldown
+[Info   : Unity Log]  Loading key disableGuardianBuffAnimation
+[Info   : Unity Log]  Loading key autoEquipShield
+[Info   : Unity Log]  Loading key skipIntro
+[Info   : Unity Log]  Loading key iHaveArrivedOnSpawn
+[Info   : Unity Log]  Loading key queueWeaponChanges
+[Info   : Unity Log]  Loading key reequipItemsAfterSwimming
+[Info   : Unity Log]  Loading key fallDamageScalePercent
+[Info   : Unity Log]  Loading key maxFallDamage
+[Info   : Unity Log]  Loading key skipTutorials
+[Info   : Unity Log]  Loading key disableEncumbered
+[Info   : Unity Log] Loading config section Server
+[Info   : Unity Log]  Loading key maxPlayers
+[Info   : Unity Log]  Loading key disableServerPassword
+[Info   : Unity Log]  Loading key enforceMod
+[Info   : Unity Log]  Loading key serverSyncsConfig
+[Info   : Unity Log]  Loading key serverSyncHotkeys
+[Info   : Unity Log] Loading config section Stamina
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StaminaUsage
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Workbench
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Time
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Ward
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StructuralIntegrity
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Tameable
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hud
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Experience
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Camera
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Game
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Wagon
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Gathering
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Pickable
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Durability
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Armor
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FreePlacementRotation
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Shields
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FirstPerson
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GridAlignment
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section CraftFromChest
+[Info   : Unity Log]  Loading key range
+[Info   : Unity Log]  Loading key disableCookingStation
+[Info   : Unity Log]  Loading key checkFromWorkbench
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key lookupInterval
+[Info   : Unity Log] Loading config section ValheimPlus
+[Info   : Unity Log]  Loading key mainMenuLogo
+[Info   : Unity Log]  Loading key serverBrowserAdvertisement
+[Info   : Unity Log] Loading config section PlayerProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section MonsterProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GameClock
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Brightness
+[Info   : Unity Log]  Section not enabled
+[Info   :Valheim Plus] Configuration file loaded succesfully.
+[Info   :Valheim Plus] ValheimPlus [0.9.9] is up to date.
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.0]
+[Info   :   BepInEx] Loading [ForcePVP 1.0.0.5]
+[Info   :  ForcePVP] ForcedPVP [1.0.0.5] is up to date.
+[Info   :   BepInEx] Loading [Better Auto Run 1.1.0]
+[Info   :Better Auto Run] Better Auto Run (1.1.0) has started.
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] 10/17/2021 17:29:38: Starting to load scene:start
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   :   Console] WoV - SSC: Version Generated: 0.203.11 (WorldofValheimServerSideCharacters v0.7.2)
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.203.11 (WorldofValheimServerSideCharacters v0.7.2)@0.9.9
+[Info   : Unity Log] 10/17/2021 17:29:41: Valheim version:0.203.11 (WorldofValheimServerSideCharacters v0.7.2)@0.9.9
+
+[Info   :   Console] WoV - SSC: Version Generated: 0.203.11 (WorldofValheimServerSideCharacters v0.7.2)
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.203.11 (WorldofValheimServerSideCharacters v0.7.2)@0.9.9
+[Info   : Unity Log] 10/17/2021 17:29:41: Render threading mode:MultiThreaded
+
+[Info   :   Console] WoV - SSC: Version Generated: 0.203.11 (WorldofValheimServerSideCharacters v0.7.2)
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.203.11 (WorldofValheimServerSideCharacters v0.7.2)@0.9.9
+[Info   : Unity Log] 10/17/2021 17:29:41: Using environment steamid 892970
+
+[Info   : Unity Log] 10/17/2021 17:29:41: Using steam APPID:892970
+
+[Info   : Unity Log] 10/17/2021 17:29:41: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 10/17/2021 17:29:41: Steam initialized, persona:jhekyll
+
+[Warning: Unity Log] 10/17/2021 17:29:41: Missing audio clip in music respawn
+
+[Info   : Unity Log] 10/17/2021 17:29:41: Checking for installed DLCs
+
+[Info   : Unity Log] 10/17/2021 17:29:41: DLC:beta installed:False
+
+[Info   :   Console] WoV - SSC: Version Generated: 0.203.11 (WorldofValheimServerSideCharacters v0.7.2)
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.203.11 (WorldofValheimServerSideCharacters v0.7.2)@0.9.9
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
+[Info   : Unity Log] 10/17/2021 17:29:42: UI Group status changed Menu = True
+
+[Info   : Unity Log] 10/17/2021 17:29:44: UI Group status changed Menu = True
+
+[Info   : Unity Log] 10/17/2021 17:31:31: FOund selected Start game
+
+[Info   : Unity Log] 10/17/2021 17:31:31: show character selection
+
+[Info   : Unity Log] 10/17/2021 17:31:55: UI Group status changed Menu = True
+
+[Info   : Unity Log] 10/17/2021 17:31:57: Steam manager on destroy
+
